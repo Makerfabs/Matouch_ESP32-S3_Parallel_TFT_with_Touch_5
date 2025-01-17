@@ -121,8 +121,6 @@ void setup()
               Serial.println(' ');
           }
           tp.isTouched = false;
-          if (tp.touches > 2)
-              break;
       }
       delay(100);
   }
