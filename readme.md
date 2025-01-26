@@ -16,10 +16,11 @@ Note:
 
 ## Intruduce
 
-Product Link : [Matouch ESP32-S3 Parallel TFT with Touch 5]()
+Product Link : [Matouch ESP32-S3 Parallel TFT with Touch 5](https://www.makerfabs.com/matouch-esp32-s3-parallel-tft-with-touch-5.html)
 
 Wiki Link : [Matouch ESP32-S3 Parallel TFT with Touch 5](https://wiki.makerfabs.com/Matouch_ESP32-S3_Parallel%20_TFT_with_Touch_5%27%27.html)
 
+vedio Link : [Happy 2025 Chinese New Year from Makerfabs!](https://www.youtube.com/watch?v=8EgFkMtmkkM)
 
 ## Features
 
