@@ -57,3 +57,7 @@ Demonstrate basic graphics drawing, text display, colour testing and performance
 ### LovyanGFX_demo
 
 This demo uses lovyanGFX to implement the screen display and touch functions.
+
+### LVGL_test
+
+Code for the Usage in Squareline Studio routine in the wiki.
