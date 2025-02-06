@@ -55,6 +55,7 @@ void setup()
   Serial.begin(115200);
 
   gfx->begin();
+  gfx->fillScreen(WHITE);
   pinMode(GFX_BL, OUTPUT);
   digitalWrite(GFX_BL, LOW);
 
